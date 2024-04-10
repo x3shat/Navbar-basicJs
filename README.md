@@ -2,6 +2,8 @@
 
 This project is a basic HTML/CSS/JavaScript project that implements a responsive navbar. The main goal of this project is to understand the addition, deletion, or toggling of classes using JavaScript.
 
+https://x3shat.github.io/Navbar-basicJs/
+ 
 ## Project Structure
 
 The project consists of the following files:
