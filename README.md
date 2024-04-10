@@ -19,3 +19,8 @@ The `app.js` file adds interactivity to the navbar. It targets the navigation to
 The JavaScript code utilizes the `classList` property to add, remove, or toggle classes dynamically based on user interaction.
 
 
+## Working demo
+![Desktop View](Screenshot1.png)
+![Desktop View](Screenshot2.png)
+
+
